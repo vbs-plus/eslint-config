@@ -1,6 +1,6 @@
 {
   "name": "@vbs/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "My ESLint config",
   "keywords": [
     "eslint-config"
