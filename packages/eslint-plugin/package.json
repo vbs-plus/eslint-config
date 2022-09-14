@@ -1,12 +1,12 @@
 {
   "name": "@vbs/eslint-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My eslint plugin",
   "keywords": [
     "eslint-plugin"
   ],
   "license": "MIT",
-  "author": "chris-zhu <https://github.com/chris-zhu>",
+  "author": "yzh990918 <https://github.com/yzh990918>",
   "repository": {
     "type": "git",
     "url": "https://github.com/vbs-plus/eslint-config",
