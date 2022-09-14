@@ -14,7 +14,7 @@ export default defineConfig({
     sourceType: 'module',
   },
   extends: [
-    'plugin:@chris-zhu/core',
+    'plugin:@vbs/core',
     'plugin:import/recommended',
     'plugin:promise/recommended',
   ],

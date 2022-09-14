@@ -2,10 +2,10 @@ import { defineConfig } from '../utils'
 
 export default defineConfig({
   extends: [
-    'plugin:@chris-zhu/typescript',
-    'plugin:@chris-zhu/react',
-    'plugin:@chris-zhu/json',
-    'plugin:@chris-zhu/yml',
+    'plugin:@vbs/typescript',
+    'plugin:@vbs/react',
+    'plugin:@vbs/json',
+    'plugin:@vbs/yml',
     'plugin:@next/next/recommended',
   ],
   plugins: ['jsx-a11y'],

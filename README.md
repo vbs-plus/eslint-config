@@ -15,9 +15,7 @@ pnpm add -D eslint @vbs/eslint-config
 ```json
 {
   "extends":"@vbs",
-   "rules": {
-    ...
-  }
+   "rules": {}
 }
 ```
 
